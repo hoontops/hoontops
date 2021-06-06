@@ -1,6 +1,6 @@
 ```
 👋Hi everyone
-:gift_heart:This is jeonghoon Lee, sure i am newbie Dev.  
+This is jeonghoon Lee, sure i am newbie Dev.  
                             from seoul , south korea:laughing:
 ```
 
@@ -25,6 +25,10 @@
 
 ___
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+<h1>Directly,you can clone these repositry 🔗 </h1>
+
+
+
 ### My first project is **starbuck's** clone coding
 ##### JSP Mvc2 pattern, Quite hard. 
 * #### attached payment system on website **korea.version** (~~it's not to precess in real~~) 
@@ -36,6 +40,9 @@ ___
 
 <h2> What funtion's used?</h2>
 <div>
+
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" style="height :20px; margin-left : 1px; margin-right : 10px;"/>
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height :20px; margin-left : 1px; margin-right : 10px;"/>
 
 <img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=Css3&logoColor=Yellow" style="height : 20px; margin-left : 0; margin-right : 10px;"/>
@@ -45,11 +52,21 @@ ___
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height :20px; margin-left :0; margin-right : 10px;"/>           
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
- </div>   
 
-<h3>Directly,you can clone these repositry 🔗 </h3>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
+<img src="https://img.shields.io/badge/Apache Tomcat
+-F8DC75?style=flat-square&logo=Apache Tomcat
+&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
+
+ </div> 
+
+
+
+
 ___
 
+
+<h2>Click 🔗 [project](http://54.180.152.188)</h2>
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
 
@@ -68,13 +85,11 @@ ___
 
 
 
-
-<h2>Click 🔗 [project](http://54.180.152.188)</h2>
-
-
-
 <h2> What funtion's used?</h2>
 <div>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" style="height :20px; margin-left : 1px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" style="height :20px; margin-left : 1px; margin-right : 10px;"/>
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height :20px; margin-left : 1px; margin-right : 10px;"/>
 
 <img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=Css3&logoColor=white" style="height : 20px; margin-left : 0; margin-right : 10px;"/>
@@ -85,27 +100,24 @@ ___
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
 <img src="https://img.shields.io/badge/Twailindcss-38B2AC?style=flat-square&logo=Tailwind CSS&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
+ 
+<img src="https://img.shields.io/badge/Figma-A24E1E?style=flat-square&logo=Figma&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
+<img src="https://img.shields.io/badge/Apache Tomcat
+-E8DC75?style=flat-square&logo=Apache Tomcat
+&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
+
+ 
+ 
+  
+ 
  </div>   
 
 ___
+*Ec2 Server**|<img src="https://www.thetechaudit.com/wp-content/uploads/2021/02/AWS-Cloud.png" style="width= 100px; height: 70px; margin-left : 5px; margin-right : 5px">
 
-|Header|Description|
-|:**Ec2 Server**:|:Amazon:|
-|:**Apache Tomcat 9.0**|:Apache:|
-|:**Apache Tomcat 9.0**|:Apache:|
-|:**Apache Tomcat 9.0**|:Apache:|
-|:**Apache Tomcat 9.0**|:Apache:|
-|:**Apache Tomcat 9.0**|:Apache:|
-|:**Apache Tomcat 9.0**|:Apache:|
-|:**Apache Tomcat 9.0**|:Apache:|
-
-
-
-**Ec2 Server**
-<img src="https://www.thetechaudit.com/wp-content/uploads/2021/02/AWS-Cloud.png" style="height: 70px; margin-left : 5px; margin-right : 5px">
-
-**Apache Tomcat 9.0**
-<img src="https://wodonggun.github.io/img/2017-07-28-%EC%95%84%ED%8C%8C%EC%B9%98%20%ED%86%B0%EC%BA%A3%20%EC%B0%A8%EC%9D%B4/2.png" style="height: 60px; margin-left : 5px; margin-right : 5px">
+**Apache Tomcat 9.0**|<img src="https://wodonggun.github.io/img/2017-07-28-%EC%95%84%ED%8C%8C%EC%B9%98%20%ED%86%B0%EC%BA%A3%20%EC%B0%A8%EC%9D%B4/2.png" style="height: 60px; width:100px; margin-left:5px; margin-right:5px">
 
 #
 
