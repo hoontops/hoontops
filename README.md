@@ -24,7 +24,14 @@ AJAX(비동기 처리) 의 이해도가 부족하여 학습을 추가적으로 �
 수업내용과 개개인의 아이디어를 잘살려 진행했고 1차 프로젝트의 업무진행의 방향성과 개개인들의 아이디어를 조합해 나갓습니다.
 Mybatis 구조의 Mapping을 이용하여 SQL 쿼리문을 주로 , 2차프로젝트의 Main page,News page 를 구현해 보았습니다.
 디자인의 협소함을 Tailwindcss 를 이용하여 보완하였고, 관리자 페이지를 지속적으로 업데이트해갈 예정입니다.
+___
+# Im going to leran ...🎈
 
+#### Javascript , Typescript
+
+#### Java more deeply..
+
+#### Phyton.
 
 
 ___
