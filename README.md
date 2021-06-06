@@ -9,8 +9,9 @@ my first project is starbuck's clone coding and i attached payment system on web
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : 15px; margin-left : 12px; margin-right : 12px;"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JavaScript&logoColor=white" style="height : 15px; margin-left : 10px; margin-
-
-
+<img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=flat-square&logo=JavaScript&logoColor=white" style="height : 15px; margin-left : 10px; margin-
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : 15px; margin-left : 10px; margin-
+                                                           
                                                                                                              
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hoontops&show_icons=true&theme=yeblu" /></a>
