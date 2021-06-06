@@ -6,10 +6,13 @@ i have 2project's in this repositry, Let you check directly.
 
 my first project is starbuck's clone coding and i attached payment system on website korea.version 
 (of course, it's not to precess in real) 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : 15px; margin-left : 12px; margin-right : 12px;"/></a>
 
-
+<a href="https://github.com/anuraghazra/convoychat">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JavaScript&logoColor=white" style="height : 15px; margin-left : 10px; margin-
+</a>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
