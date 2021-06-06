@@ -54,9 +54,7 @@ ___
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
-<img src="https://img.shields.io/badge/Apache Tomcat
--F8DC75?style=flat-square&logo=Apache Tomcat
-&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
+<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
 
  </div> 
 
@@ -89,24 +87,14 @@ ___
 <div>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" style="height :20px; margin-left : 1px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" style="height :20px; margin-left : 1px; margin-right : 10px;"/>
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height :20px; margin-left : 1px; margin-right : 10px;"/>
-
 <img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=Css3&logoColor=white" style="height : 20px; margin-left : 0; margin-right : 10px;"/>
-
 <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : 20px; margin-left : 0; margin-right : 10px;"/>
-
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height :20px; margin-left :0; margin-right : 10px;"/>           
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
-<img src="https://img.shields.io/badge/Twailindcss-38B2AC?style=flat-square&logo=Tailwind CSS&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
- 
-<img src="https://img.shields.io/badge/Figma-A24E1E?style=flat-square&logo=Figma&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
-
+<img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=flat-square&logo=TailwindCSS&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
+ <img src="https://img.shields.io/badge/Figma-A24E1E?style=flat-square&logo=Figma&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
-<img src="https://img.shields.io/badge/Apache Tomcat
--E8DC75?style=flat-square&logo=Apache Tomcat
-&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
+<img src="https://img.shields.io/badge/Apache Tomcat-E8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
 
  
  
