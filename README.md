@@ -3,7 +3,7 @@
 ### - 🤔 I’m looking for help with ...
 
 ### -[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoontops)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoontops&show_icons=true&theme=buefy)
 
 
 <!--
