@@ -1,20 +1,6 @@
-### Hi there 👋
-
-### - 🤔 I’m looking for help with ...
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoontops)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoontops&hide=contribs,prs)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoontops&count_private=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoontops&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoontops&show_icons=true&theme=radical)
-
+###  👋Hi everyone
+### 🤔This is jeonghoon Lee, sure i am newbie Dev.  
+###                           from seoul , south korea:laughing:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
