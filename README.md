@@ -14,23 +14,27 @@ This is jeonghoon Lee, sure i am newbie Dev.
 
 ##### 포트폴리오 페이지는 제작중이며, 국비지원교육을 성실히 마치고, 드디어 구직활동을 시작하게 되었습니다.
 
-#### 1차 프로젝트는 JSP MVC 2 패턴으로 제작하였으며 총 5인이 협업하였고,
+#### 1차 프로젝트- 쇼핑몰 형식을 주제로 JSP MVC 2 패턴으로 제작하였으며 총 5인이 협업하였고,
 모두 비전공자 였지만 열정적으로 학습하며 기능을 구현해 나아갔습니다.
 총 9일정도의 기간이 소요되었고, **조장**으로써 팀원들의 특징과 첫프로젝트의 책임감으로 열정을 불태웠습니다.
+상품목록 페이지 이미지 추가기능을 이미지 주소로 불러와 추가되는 기능을 구현하고, Member 관리 기능을 구현 해보았습니다.
+AJAX(비동기 처리) 의 이해도가 부족하여 학습을 추가적으로 하였습니다.
 
-100% 만족스럽진 않지만, 수업내용과 개개인의 아이디어를 잘살려 진행했고
-상품목록 페이지 이미지 추가기능을 이미지 주소로 불러와 추가되는 기능을 구현하고, Member 관리 기능을 구현 해보았습니다. 
+#### 2차 프로젝트- 커뮤니티 기반을 주제로 JAVA SPRING MVC 패턴으로 제작하였으며 동일한 5인이 협업하였고,
+수업내용과 개개인의 아이디어를 잘살려 진행했고 1차 프로젝트의 업무진행의 방향성과 개개인들의 아이디어를 조합해 나갓습니다.
+Mybatis 구조의 Mapping을 이용하여 SQL 쿼리문을 주로 , 2차프로젝트의 Main page,News page 를 구현해 보았습니다.
+디자인의 협소함을 Tailwindcss 를 이용하여 보완하였고, 관리자 페이지를 지속적으로 업데이트해갈 예정입니다.
 
 
 
 ___
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
-<h1>Directly,you can clone these repositry 🔗 </h1>
+<h1>Directly🌸  you can clone repositry of starbucks(first project) </h1>
 
 
 
 ### My first project is **starbuck's** clone coding
-##### JSP Mvc2 pattern, Quite hard. 
+##### JSP Mvc2 pattern
 * #### attached payment system on website **korea.version** (~~it's not to precess in real~~) 
 * #### Build up - attached directly Photo by Img address.
 * #### that 2type funtions, make me more **interested in programing**.
@@ -60,11 +64,10 @@ ___
 
 
 
-
 ___
 
 
-<h2>Click 🔗[바로가기](http://54.180.152.188){:target="_blank"}</h2>
+<h2>Click ▶️▶️▶️ [바로가기](http://54.180.152.188)</h2>
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
 
@@ -80,9 +83,6 @@ ___
 
 
 
-
-
-
 <h2> What funtion's used?</h2>
 <div>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" style="height :20px; margin-left : 1px; margin-right : 10px;"/>
@@ -92,28 +92,18 @@ ___
 <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : 20px; margin-left : 0; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height :20px; margin-left :0; margin-right : 10px;"/>           
 <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=flat-square&logo=TailwindCSS&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
- <img src="https://img.shields.io/badge/Figma-A24E1E?style=flat-square&logo=Figma&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
+<img src="https://img.shields.io/badge/Figma-A24E1E?style=flat-square&logo=Figma&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
 <img src="https://img.shields.io/badge/Apache Tomcat-E8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white" style="height :20px; margin-left : 0; margin-right : 12px;"/>
 
  
- 
-  
- 
  </div>   
-
-___
-*Ec2 Server**|<img src="https://www.thetechaudit.com/wp-content/uploads/2021/02/AWS-Cloud.png" style="width= 100px; height: 70px; margin-left : 5px; margin-right : 5px">
-
-**Apache Tomcat 9.0**|<img src="https://wodonggun.github.io/img/2017-07-28-%EC%95%84%ED%8C%8C%EC%B9%98%20%ED%86%B0%EC%BA%A3%20%EC%B0%A8%EC%9D%B4/2.png" style="height: 60px; width:100px; margin-left:5px; margin-right:5px">
-
-#
 
 
 
 <div>                                                                                                           
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style=" height:240px; " src="https://github-readme-stats.vercel.app/api?username=hoontops&show_icons=true&theme=yeblu" /></a>
+  <img align="center" style=" height:250px; " src="https://github-readme-stats.vercel.app/api?username=hoontops&show_icons=true&theme=yeblu" /></a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoontops&layout=compact_icons=true&theme=yeblu" />
 </a>
