@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hoontops&show_icons=true&theme=yeblu" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoontops&layout=compact_icons=true&theme=yeblu)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoontops&layout=compact_icons=true&theme=yeblu" />
 </a>
 
 <!--
