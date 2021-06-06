@@ -1,7 +1,12 @@
 ###👋Hi everyone
->🤔This is jeonghoon Lee, sure i am newbie Dev.  
+>:gift_heart:This is jeonghoon Lee, sure i am newbie Dev.  
 >  >  >from seoul , south korea:laughing:
 
+i have 2project's in this repositry, Let you check directly.
+
+my first project is starbuck's clone coding and i attached payment system on website korea.version 
+(of course, it's not to precess in real) 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 
 
