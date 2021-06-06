@@ -1,6 +1,13 @@
 ###  👋Hi everyone
 ### 🤔This is jeonghoon Lee, sure i am newbie Dev.  
 ###                           from seoul , south korea:laughing:
+================================================================
+무ㅡㅓ라해야할까
+-----------------
+
+
+
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
