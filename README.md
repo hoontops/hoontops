@@ -10,7 +10,7 @@ my first project is starbuck's clone coding and i attached payment system on web
 <div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : 15px; margin-left : 12px; margin-right : 12px;"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : 15px; margin-left : 10px; margin-right : 12px;"/>                                                                                     
-<img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=flat-square&logo=Tailwind&logoColor=white" style="height : 15px; margin-left : 20; margin-right : 12px;"/>
+<img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=Css3&logoColor=Yellow" style="height : 15px; margin-left : 20; margin-right : 12px;"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=&logoColor=white" style="height : 15px; margin-left : 20; margin-right : 12px;"/>
  </div>                                                          
 
