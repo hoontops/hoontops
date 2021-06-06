@@ -10,12 +10,15 @@ my first project is starbuck's clone coding and i attached payment system on web
 <div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height :20px; margin-left : 12px; margin-right : 12px;"/>
 <img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=Css3&logoColor=Yellow" style="height : 20px; margin-left : 20; margin-right : 12px;"/>
-<img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=HTML5&logoColor=Yellow" style="height : 20px; margin-left : 20; margin-right : 12px;"/>
+<img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : 20px; margin-left : 20; margin-right : 12px;"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height :20px; margin-left : 10px; margin-right : 12px;"/>                                                                                     
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=&logoColor=white" style="height :20px; margin-left : 20; margin-right : 12px;"/>
- </div>                                                          
-
+ </div>            
+ <div>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/[ICON SLUG].svg" />
+</div>
 
 
 
