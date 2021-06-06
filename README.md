@@ -16,8 +16,8 @@ my first project is starbuck's clone coding and i attached payment system on web
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=&logoColor=white" style="height :20px; margin-left : 20; margin-right : 12px;"/>
  </div>            
  <div>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[ICON SLUG].svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[.net].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/4D.svg" />
 </div>
 
 
