@@ -7,28 +7,28 @@ This is jeonghoon Lee, i am newbie Dev.
 
 
 ___
-# Im going to leran ...🎈
+# I have plan to  leran ...🎈
 
-#### Javascript , Typescript
+#### RUST
 
 #### Java more deeply..
 
-#### Phyton.
-
-
 ___
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
-<h1>Directly🌸  you can clone repositry of starbucks(first project) </h1>
+<h1>🌸  2022 new Spring here </h1>
 
 
 
-### My first project is **starbuck's** clone coding
-##### Mvc pattern Fxxx
-* #### attached payment system on website **korea.version** (~~it's not to precess in real~~) 
-* #### Build up - attached directly Photo by Img address.
-* #### that 2type funtions, make me more **interested in programing**.
+### 2020. 06 - 2021. 06 - 해법교육 LMS ( JAVA, JAVASCRIPT, SPRING FRAMEWORK, ORACLE , JSON, MYBATIS , GIT)
+### 2021. 07 - 2021. 12 - 중진공 비대면서류철 / 모바일 ( eGOV(SPRING FRAMEWORK), JAVASCRIPT, ORACLE, SVN ) 
+### 2021. 12 - 2022. 03 - SMH (SM상선) HR 고도화     ( JAVA SPRING FRAMEWORK, NEXACRO 17 , ORACLE , SVN)
+### 2022. 03 - ...      - 충청도 도시가스 (JBCORP) 빌링업무 고도화 진행중( JAVA, NEXACRO 17, X-UP,  IBATIS , ORACLE ,SVN)
 
 
+## Mvc pattern
+## 
+* ####
+* ####
 
 
 <h2> What funtion's used?</h2>
@@ -57,18 +57,17 @@ ___
 
 
 <h2>Click ▶️▶️▶️ [바로가기](http://54.180.152.188)</h2>
-⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+⚡⚡⚡⚡⚡⚡⚡⚡포트폴리오 대기.⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
 
 
 
 
-### My Second project is **Game coummunity Web**
+### My Second
 ##### **We build up this project by Java Spring Mvc pattern**
-* #### i controlled on main page with new's pages
-* #### Controller,Dao,Model,Service pattern was make me mess.
-* #### due to this project I am studying to understand a little more deeply.
-
+* #### 
+* #### 
+* #### 
 
 
 
