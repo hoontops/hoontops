@@ -1,7 +1,6 @@
 ```
 👋Hi everyone
-This is jeonghoon Lee, i am newbie Dev.  
-                            from seoul , south korea:laughing:
+This is jeonghoon Lee, WELCOME TO COMING.
 ```
 
 
@@ -14,9 +13,9 @@ ___
 #### Java more deeply..
 
 ___
-⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 🌸  2022 new Spring here
-
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
 
 
 ### 
